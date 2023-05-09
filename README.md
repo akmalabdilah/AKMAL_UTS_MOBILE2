@@ -36,7 +36,7 @@
 
 
 <p>
-Catatan yang di atas merupakan gambaran satu aplikasi mulai dari menu login sampai menu merubah data 
+Catatan yang di atas merupakan gambaran satu aplikasi mulai dari menu login sampai menu merubah data yang di buat menggunakan kode dart dan fremwork flutter
 </p>
 
 
